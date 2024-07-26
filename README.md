@@ -1,4 +1,4 @@
-# Static-website
+# Static-website on AWS
 
 ## Overview
 This project involves deploying a static website on AWS using a custom VPC with a highly scalable, elastic, and secure infrastructure. The setup includes an Application Load Balancer, EC2 instances, Route 53 for domain management, SSL certificates for secure communication, and an Auto Scaling Group to ensure high availability and fault tolerance.
@@ -109,7 +109,7 @@ Set up an Auto Scaling Group to dynamically create EC2 instances based on traffi
 ![](Image/-ASGRUNINGINSTANCES.png)
 
 
-### Secured Web Server 
+### Secured Website 
 
 ![](Image/-securedsite.png)
 
